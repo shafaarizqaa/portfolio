@@ -59,8 +59,8 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Fiqri Farrel Ridhwan";
-            $("#favicon").attr("href", "assets/images/Farrel Favicon.png");
+            document.title = "Portfolio | Shafa Arrizqa Az Zahroh";
+            $("#favicon").attr("href", "assets/images/Shafa.jpg");
         }
         else {
             document.title = "Kembali Ke Halaman Portfolio";
